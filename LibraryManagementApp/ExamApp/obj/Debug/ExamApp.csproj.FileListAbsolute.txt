@@ -1,0 +1,18 @@
+C:\Users\PC21\Desktop\14 October Practice\ExamApp\ExamApp\bin\ExamApp.dll.config
+C:\Users\PC21\Desktop\14 October Practice\ExamApp\ExamApp\bin\ExamApp.dll
+C:\Users\PC21\Desktop\14 October Practice\ExamApp\ExamApp\bin\ExamApp.pdb
+C:\Users\PC21\Desktop\14 October Practice\ExamApp\ExamApp\obj\Debug\ExamApp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\14 October Practice\ExamApp\ExamApp\obj\Debug\ExamApp.dll
+C:\Users\PC21\Desktop\14 October Practice\ExamApp\ExamApp\obj\Debug\ExamApp.pdb
+I:\ExamApp1\ExamApp\bin\ExamApp.dll.config
+I:\ExamApp1\ExamApp\bin\ExamApp.dll
+I:\ExamApp1\ExamApp\bin\ExamApp.pdb
+I:\ExamApp1\ExamApp\obj\Debug\ExamApp.csprojResolveAssemblyReference.cache
+I:\ExamApp1\ExamApp\obj\Debug\ExamApp.dll
+I:\ExamApp1\ExamApp\obj\Debug\ExamApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mamun Vai\LibraryManagementApp\ExamApp\obj\Debug\ExamApp.csprojResolveAssemblyReference.cache
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mamun Vai\LibraryManagementApp\ExamApp\obj\Debug\ExamApp.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mamun Vai\LibraryManagementApp\ExamApp\bin\ExamApp.dll.config
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mamun Vai\LibraryManagementApp\ExamApp\bin\ExamApp.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mamun Vai\LibraryManagementApp\ExamApp\bin\ExamApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mamun Vai\LibraryManagementApp\ExamApp\obj\Debug\ExamApp.pdb

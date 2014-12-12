@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2013\Projects\StudentDeptApp\StudentDeptApp\bin\StudentDeptApp.dll.config
+c:\users\user\documents\visual studio 2013\Projects\StudentDeptApp\StudentDeptApp\bin\StudentDeptApp.dll
+c:\users\user\documents\visual studio 2013\Projects\StudentDeptApp\StudentDeptApp\bin\StudentDeptApp.pdb
+c:\users\user\documents\visual studio 2013\Projects\StudentDeptApp\StudentDeptApp\obj\Debug\StudentDeptApp.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\StudentDeptApp\StudentDeptApp\obj\Debug\StudentDeptApp.dll
+c:\users\user\documents\visual studio 2013\Projects\StudentDeptApp\StudentDeptApp\obj\Debug\StudentDeptApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mamun Vai\StudentDeptApp\StudentDeptApp\bin\StudentDeptApp.dll.config
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mamun Vai\StudentDeptApp\StudentDeptApp\bin\StudentDeptApp.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mamun Vai\StudentDeptApp\StudentDeptApp\bin\StudentDeptApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mamun Vai\StudentDeptApp\StudentDeptApp\obj\Debug\StudentDeptApp.csprojResolveAssemblyReference.cache
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mamun Vai\StudentDeptApp\StudentDeptApp\obj\Debug\StudentDeptApp.dll
+F:\maloncho backup\Ddrive\C# COURSE\Basis\Mamun Vai\StudentDeptApp\StudentDeptApp\obj\Debug\StudentDeptApp.pdb

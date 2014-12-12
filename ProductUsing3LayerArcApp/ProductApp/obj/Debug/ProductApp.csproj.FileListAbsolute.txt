@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2013\Projects\ProductApp\ProductApp\bin\ProductApp.dll.config
+c:\users\user\documents\visual studio 2013\Projects\ProductApp\ProductApp\bin\ProductApp.dll
+c:\users\user\documents\visual studio 2013\Projects\ProductApp\ProductApp\bin\ProductApp.pdb
+c:\users\user\documents\visual studio 2013\Projects\ProductApp\ProductApp\obj\Debug\ProductApp.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\ProductApp\ProductApp\obj\Debug\ProductApp.dll
+c:\users\user\documents\visual studio 2013\Projects\ProductApp\ProductApp\obj\Debug\ProductApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder (2)\Other\ProductApp\ProductApp\bin\ProductApp.dll.config
+F:\maloncho backup\Ddrive\C# COURSE\New folder (2)\Other\ProductApp\ProductApp\bin\ProductApp.dll
+F:\maloncho backup\Ddrive\C# COURSE\New folder (2)\Other\ProductApp\ProductApp\bin\ProductApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder (2)\Other\ProductApp\ProductApp\obj\Debug\ProductApp.dll
+F:\maloncho backup\Ddrive\C# COURSE\New folder (2)\Other\ProductApp\ProductApp\obj\Debug\ProductApp.pdb
